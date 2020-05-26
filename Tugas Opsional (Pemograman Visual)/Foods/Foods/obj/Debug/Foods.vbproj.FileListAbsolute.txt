@@ -1,0 +1,12 @@
+F:\Foods\Foods\bin\Debug\Foods.exe.config
+F:\Foods\Foods\bin\Debug\Foods.exe
+F:\Foods\Foods\bin\Debug\Foods.pdb
+F:\Foods\Foods\bin\Debug\Foods.xml
+F:\Foods\Foods\obj\Debug\Foods.vbprojAssemblyReference.cache
+F:\Foods\Foods\obj\Debug\Foods.frmMain.resources
+F:\Foods\Foods\obj\Debug\Foods.Resources.resources
+F:\Foods\Foods\obj\Debug\Foods.vbproj.GenerateResource.cache
+F:\Foods\Foods\obj\Debug\Foods.vbproj.CoreCompileInputs.cache
+F:\Foods\Foods\obj\Debug\Foods.exe
+F:\Foods\Foods\obj\Debug\Foods.xml
+F:\Foods\Foods\obj\Debug\Foods.pdb
