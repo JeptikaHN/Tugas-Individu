@@ -1,0 +1,24 @@
+@media screen and (max-width: 1280px){
+    #subheader p{
+        margin-left: 10px;
+    }
+    #subheader a{
+        margin-right: 10px;
+    }
+    .offer{
+        width: 380px;
+        padding-left: 20px;
+    }
+    .subs{
+        width: 325px;
+    }
+}
+@media screen and (max-width:1024px){
+    
+}
+@media screen and (max-width:768px){
+    
+}
+@media screen and (max-width:480px){
+    
+}
